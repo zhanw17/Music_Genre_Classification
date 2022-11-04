@@ -9,4 +9,4 @@ From K-Pop to Jazz, music lovers rely on the technology of music genre classific
 Build machine learning and deep learning models to classify music into different genres. Provide an accurate method of classifying music genres. 
 
 ## Data
-he project's data contian both labeled visual representation for each audio file collected from sources including personal CDs, radio, microphone recordings, etc, and regular csv formatted data about characteristics of music audios extracted from the visual image.
+The project's data contian both labeled visual representation for each audio file collected from sources including personal CDs, radio, microphone recordings, etc, and regular csv formatted data about characteristics of music audios extracted from the visual image.
